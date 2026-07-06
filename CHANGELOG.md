@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.74.0](https://github.com/werf/werf/compare/v2.73.2...v2.74.0) (2026-07-06)
+
+
+### Features
+
+* **deploy:** add `werf.io/resource-policy` annotation ([#7613](https://github.com/werf/werf/issues/7613)) ([72ae0f2](https://github.com/werf/werf/commit/72ae0f24ea745a81c61656d1c25df8dace2538f6))
+
+
+### Bug Fixes
+
+* **deploy:** `werf.io/resource-policy` should only respect skip-delete from live ([#7623](https://github.com/werf/werf/issues/7623)) ([f261028](https://github.com/werf/werf/commit/f261028ca4b92b48ef9e26c353c0adade1e331ea))
+
 ## [2.73.2](https://github.com/werf/werf/compare/v2.73.1...v2.73.2) (2026-07-01)
 
 
